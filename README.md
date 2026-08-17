@@ -6,7 +6,7 @@ I build production web applications end-to-end — from React/Next.js front ends
 
 ## About
 
-- Final-year Software Engineering student at SEECS, NUST
+- Bachelors in Engineering in Software Engineering, SEECS, NUST
 - Full-Stack Engineer at Triminage, building production web applications and internal tooling
 - Comfortable owning a feature end-to-end: UI, API, deployment, and monitoring
 - Currently deepening my Kubernetes, Terraform, and cloud architecture skills
