@@ -1,7 +1,5 @@
 # Hi, I'm Ibrahim Qaiser
 
-**Full-Stack Engineer & DevOps** · Final-year Software Engineering student at NUST
-
 I build production web applications end-to-end — from React/Next.js front ends and REST APIs to containerized deployment and cloud infrastructure on AWS and GCP.
 
 ## About
